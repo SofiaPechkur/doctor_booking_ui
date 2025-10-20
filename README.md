@@ -4,7 +4,7 @@
 
 ## 🌐 Демо
 
-[Netlify](link)
+[Doctor Booking на Netlify](https://doctor-booking-ui.netlify.app)
 
 ---
 
