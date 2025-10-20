@@ -1,10 +1,10 @@
-import type { FC } from 'react'
+import type { FC } from "react";
+import "./Button.scss";
 
 export const Button: FC = () => {
-
   return (
     <>
-    dgdgdfgdfg
+      <button className="button">записаться на прием</button>
     </>
-  )
-}
+  );
+};
